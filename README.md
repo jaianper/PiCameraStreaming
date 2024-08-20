@@ -1,2 +1,2 @@
 # PiCameraStreaming
-Python scripts for recording or streaming video from the PiCamera.
+Python scripts for recording or streaming video from RaspberryPi with PiCamera.
